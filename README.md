@@ -22,7 +22,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 How to reach me
 
-- **Email:** ajey35@example.com
+- **Email:** ajeyakumara07@gmail.com
 - **LinkedIn:** [Ajey's LinkedIn](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)
 - **Twitter:** [@ajey35](https://x.com/ajeyakumara07)
 
