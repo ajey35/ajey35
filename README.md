@@ -4,10 +4,10 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Languages:** JavaScript,C, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Next.js 
+- **Databases:** MySQL, PostgreSQL, Prisma ORM
+- **DevOps:** Docker, Kubernetes, GitHub Actions
 - **Cloud:** AWS, Azure, Google Cloud Platform
 
 ## 🌱 Currently Learning
@@ -23,8 +23,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## 📫 How to reach me
 
 - **Email:** ajey35@example.com
-- **LinkedIn:** [Ajey's LinkedIn](https://www.linkedin.com/in/ajey35)
-- **Twitter:** [@ajey35](https://twitter.com/ajey35)
+- **LinkedIn:** [Ajey's LinkedIn](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)
+- **Twitter:** [@ajey35](https://x.com/ajeyakumara07)
 
 ## 📝 Latest Blog Posts
 
@@ -36,7 +36,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📚 Projects
 
-- [Project 1](https://github.com/ajey35/Text-Pad/ - A Text Editor
+- [Project 1](https://github.com/ajey35/Text-Pad) - A Text Editor
 - [Project 2](https://github.com/ajey35/Amplify) - A Music Streaming Website Like Spotify (Name : Amplify)
 - [Project 3](https://github.com/ajey35/Medium) - A Medium Like Blog Website
 
