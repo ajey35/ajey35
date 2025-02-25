@@ -18,7 +18,12 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📈 GitHub Stats
 
-![Ajey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajey35&show_icons=true&theme=radical)
+![Ajeya Kumara K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajey35&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+
+## Top Used Languges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajey35&layout=compact&theme=radical&hide=C&langs_count=8&hide_border=true)
+
 
 ## 📫 How to reach me
 
