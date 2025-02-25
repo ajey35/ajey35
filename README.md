@@ -4,7 +4,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript,C, C++
+- **Languages:** Typescript ,JavaScript,C, C++
 - **Frameworks & Libraries:** React, Node.js, Express, Next.js 
 - **Databases:** MySQL, PostgreSQL, Prisma ORM
 - **DevOps:** Docker, Kubernetes, GitHub Actions
