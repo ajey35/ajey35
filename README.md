@@ -1,147 +1,126 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ajey;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=7C4DFF&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Ajey;Full-Stack+Architect;Open+Source+Contributor;Realtime+Systems+Enthusiast" alt="Typing SVG" />
   
-  <p>Passionate software developer crafting elegant solutions with modern technologies</p>
+  <p>🔭 Crafting next-gen solutions with cutting-edge technologies & modern architectures</p>
   
   <div>
-    <a href="mailto:ajeyakumara07@gmail.com"><img src="https://img.shields.io/badge/Email-ajeyakumara07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/"><img src="https://img.shields.io/badge/LinkedIn-Ajeya_Kumara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/ajeyakumara07"><img src="https://img.shields.io/badge/Twitter-@ajeyakumara07-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:ajeyakumara07@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/">
+      <img src="https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/ajeyakumara07">
+      <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
   </div>
 </div>
 
 <br />
 
-## 🚀 Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Database & DevOps</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-          <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-          <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-        </div>
-      </td>
-    </tr>
-  </table>
+
+### 🎨 Frontend Ecosystem
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajey35&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajey35&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" alt="GitHub Stats" />
+### ⚙️ Backend Stack
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajey35&layout=compact&theme=radical&hide=C&langs_count=8&hide_border=true" width="60%" alt="Top Languages" />
+### 🗄️ Data Layer
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## 🌱 Currently Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+### 🚀 DevOps & Monitoring
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </div>
 
-## 🔥 Featured Projects
+### 🧪 Testing Pyramid
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+</div>
+
+</div>
+
+<br />
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ajey35/Text-Pad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Text-Pad&theme=radical&hide_border=true" alt="Text-Pad" />
+  <a href="https://github.com/ajey35">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajey35&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ajey35&theme=radical&hide_border=true&background=00000000"/>
   </a>
-  <a href="https://github.com/ajey35/Amplify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Amplify&theme=radical&hide_border=true" alt="Amplify" />
-  </a>
-  <a href="https://github.com/ajey35/Medium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Medium&theme=radical&hide_border=true" alt="Medium" />
-  </a>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajey35&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
-## 🤝 Open Source Contributions
+<br />
+
+## 🌟 Featured Innovations
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/opensource/cal.com">
-          <img src="https://img.shields.io/badge/cal.com-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="cal.com" /><br />
-          <sub><b>Scheduling infrastructure for everyone</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/opensource/dub.sh">
-          <img src="https://img.shields.io/badge/dub.sh-000000?style=for-the-badge&logo=link&logoColor=white" alt="dub.sh" /><br />
-          <sub><b>Open-source link management platform</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <th>TextPad</th>
+    <th>Amplify</th>
+    <th>Medium Clone</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ajey35/Text-Pad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Text-Pad&theme=nightowl" alt="TextPad" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ajey35/Amplify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Amplify&theme=nightowl" alt="Amplify" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ajey35/Medium">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Medium&theme=nightowl" alt="Medium Clone" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
-## 📝 Latest Blog Posts
+<br />
+
+## 📚 Latest Insights
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://example.com/blog/kubernetes-networking">
-          <b>Understanding Kubernetes Networking</b>
-        </a>
-        <br />
-        <sub>A deep dive into how Kubernetes handles networking between pods and services</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://example.com/blog/getting-started-with-rust">
-          <b>Getting Started with Rust</b>
-        </a>
-        <br />
-        <sub>A beginner's guide to the Rust programming language and its ecosystem</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://example.com/blog/scalable-apps-spring-boot">
-          <b>Building Scalable Applications with Spring Boot</b>
-        </a>
-        <br />
-        <sub>Learn how to design and implement scalable applications using Spring Boot</sub>
-      </td>
-    </tr>
-  </table>
+  <ul style="list-style: none; padding: 0;">
+    <li>🚀 <a href="https://example.com/blog/webrtc-architecture"><strong>Architecting Real-time Systems with WebRTC</strong></a></li>
+    <li>🔍 <a href="https://example.com/blog/monitoring-stack"><strong>Observability with Prometheus & Grafana</strong></a></li>
+    <li>🧪 <a href="https://example.com/blog/testing-pyramid"><strong>Testing Strategies for Modern Web Apps</strong></a></li>
+    <li>⚡ <a href="https://example.com/blog/websocket-optimization"><strong>Optimizing WebSocket Communication Patterns</strong></a></li>
+  </ul>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
 </div>
