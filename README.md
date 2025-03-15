@@ -7,7 +7,6 @@
     <a href="mailto:ajeyakumara07@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/"><img src="https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/ajeyakumara07"><img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://github.com/ajey35"><img src="https://img.shields.io/badge/🧑‍💻_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </div>
 </div>
 
