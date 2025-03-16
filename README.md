@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2800&pause=800&color=7C4DFF&center=true&vCenter=true&width=680&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Ajey;Full-Stack+Architect;Open+Source+Contributor;Realtime+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2800&pause=800&color=7C4DFF&center=true&vCenter=true&width=680&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Ajeya+Kumara" alt="Typing SVG">
   
   <p>🔮 <i>Crafting elegant digital experiences through modern architectures & cutting-edge technologies</i></p>
   
@@ -13,12 +13,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajey35&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajey35&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajey35&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajey35&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF&text_color=FFFFFF&hide_title=true&include_all_commits=true" width="48%" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajey35&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=7C4DFF&point=7C4DFF&color=FFFFFF&title_color=FFFFFF&custom_title=Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajey35&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=7C4DFF&point=7C4DFF&color=FFFFFF&title_color=FFFFFF" width="100%" alt="GitHub Activity Graph">
 </div>
 
 <br />
@@ -109,21 +109,21 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/ajey35/Text-Pad">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Text-Pad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="Text-Pad" />
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Text-Pad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="Text-Pad">
           <br />
           <sub>A modern text editor with real-time collaboration</sub>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/ajey35/Amplify">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Amplify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="Amplify" />
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Amplify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="Amplify">
           <br />
           <sub>Full-stack music streaming platform with advanced analytics</sub>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/ajey35/Medium">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Medium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="Medium" />
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajey35&repo=Medium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="Medium">
           <br />
           <sub>Content publishing platform with rich editing capabilities</sub>
         </a>
