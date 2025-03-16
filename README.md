@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2800&pause=800&color=7C4DFF&center=true&vCenter=true&width=680&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Ajeya+Kumara" alt="Animated typing greeting showing 'Hello World 👋, I'm Ajeya Kumara'">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2800&pause=800&color=7C4DFF&center=true&vCenter=true&width=680&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Ajey;Full-Stack+Architect;Open+Source+Contributor;Realtime+Systems+Enthusiast" alt="Typing SVG" />
   
   <p>🔮 <i>Crafting elegant digital experiences through modern architectures & cutting-edge technologies</i></p>
+  
+  <div>
+    <a href="mailto:ajeyakumara07@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/"><img src="https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/ajeyakumara07"><img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  </div>
+</div>
   
   <div>
     <a href="mailto:ajeyakumara07@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"></a>
