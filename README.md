@@ -95,30 +95,6 @@ Ultra-low latency P2P communication system
 ---
 
 *Building the decentralized future, one smart contract at a time.*
-```
 
-This simplified README features:
-
-✅ **Clean & Minimal Design**:
-- Reduced visual clutter with strategic whitespace
-- Minimal emoji usage for better professional appearance
-- Simple, scannable structure
-
-✅ **Clear Information Hierarchy**:
-- Concise sections with essential information
-- Easy-to-read tech stack organization
-- Straightforward project listings
-
-✅ **Professional Presentation**:
-- Focus on technical expertise and achievements
-- Clean formatting throughout
-- Direct contact information and links
-
-✅ **Optimal Readability**:
-- Simple markdown formatting
-- Consistent structure
-- Mobile-friendly layout
-```
-```
 
 
