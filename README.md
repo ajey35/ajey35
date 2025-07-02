@@ -7,7 +7,7 @@ Building scalable web applications and decentralized solutions with expertise in
 
 ## Projects by Category
 
-### 🔗 Web3 Projects
+###  Web3 Projects
 | Project | Description | Technologies |
 |---------|-------------|-------------|
 | **[LiquidStackingToken](https://github.com/ajey35/LiquidStackingToken)** | Token protocol for liquid stacking | Solidity, Web3 |
@@ -19,7 +19,7 @@ Building scalable web applications and decentralized solutions with expertise in
 | **[EthiriumNode](https://github.com/ajey35/EthiriumNode)** | Ethereum node implementation | Ethereum, Geth |
 | **[Dvault](https://github.com/ajey35/Dvault)** | Decentralized vault system | Ethereum, Solidity |
 
-### 🖥️ Frontend Projects
+###  Frontend Projects
 | Project | Description | Technologies |
 |---------|-------------|-------------|
 | **[yf-landingpage](https://github.com/ajey35/yf-landingpage)** | Crypto yield farming landing page | React, Tailwind CSS |
@@ -28,7 +28,7 @@ Building scalable web applications and decentralized solutions with expertise in
 | **[SentientStruggle](https://github.com/ajey35/SentientStruggle)** | Interactive browser experience | Three.js, React |
 | **[Text-Pad](https://github.com/ajey35/Text-Pad)** | Browser-based text editor | JavaScript, Monaco |
 
-### ⚡ Full Stack Projects
+###  Full Stack Projects
 | Project | Description | Technologies |
 |---------|-------------|-------------|
 | **[StreemMeet](https://github.com/ajey35/StreemMeet)** | Real-time video conferencing | WebRTC, WebSockets, MERN |
@@ -62,6 +62,6 @@ Node.js, Express, PostgreSQL, WebSockets, REST APIs
 ---
 
 ## Connect  
-📧 [ajeyakumara07@gmail.com](mailto:ajeyakumara07@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)  
-📱 +91 9019841504
+ [ajeyakumara07@gmail.com](mailto:ajeyakumara07@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)  
+ +91 9019841504
