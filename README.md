@@ -1,6 +1,6 @@
 # Ajay Kumar K
 
-**Full-Stack Developer | Web3 Engineer**
+**Full-Stack Developer --> Web3 Engineer**
 
 Building scalable web applications and decentralized solutions with expertise in PERN stack and blockchain technologies.
 
