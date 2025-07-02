@@ -1,128 +1,124 @@
 # Ajay Kumar K
 
-**Full-Stack Developer → Web3 Engineer**
+**Full-Stack Developer | Web3 Engineer**
 
-Passionate about building decentralized applications and smart contracts. Experienced in PERN stack development, now focused on Ethereum and Solana ecosystems.
+Building scalable web applications and decentralized solutions with expertise in PERN stack and blockchain technologies.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 BE Computer Science Student at CMR Institute of Technology (CGPA: 9.25/10)
-- 📍 Based in Bengaluru, India
+Full-stack developer specializing in **Web3 development** with strong foundation in the **PERN stack**. Currently focused on building decentralized applications and smart contracts on **Ethereum** and **Solana** ecosystems.
+
+- 🎓 BE Computer Science, CMR Institute of Technology (CGPA: 9.25/10)
+- 📍 Bengaluru, Karnataka, India
 - 🚀 Transitioning from full-stack web development to Web3
-- 💡 Experienced in building scalable web applications with PERN stack
-- ⛓️ Currently developing dApps and smart contracts on Ethereum and Solana
-- 🌱 Always learning new blockchain technologies and DeFi protocols
+- 💡 Passionate about DeFi, NFTs, and blockchain infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Web3 & Blockchain
-```
-Languages:     Solidity, Rust
-Platforms:     Ethereum, Solana  
-Frameworks:    Hardhat, Foundry, Anchor
-Libraries:     Web3.js, Ethers.js
-Tools:         Metaplex, OpenZeppelin
-Wallets:       MetaMask, Phantom
-```
+- **Languages:** Solidity, Rust
+- **Platforms:** Ethereum, Solana
+- **Frameworks:** Hardhat, Foundry, Anchor, Metaplex
+- **Libraries:** Web3.js, Ethers.js, Chainlink
+- **Wallets:** MetaMask, Phantom, WalletConnect
 
 ### Full-Stack Development (PERN)
-```
-Frontend:      React, Next.js, TypeScript
-Backend:       Node.js, Express.js
-Database:      PostgreSQL, MongoDB
-Styling:       Tailwind CSS, Material-UI
-State:         Redux, Recoil
-Cloud:         AWS, Vercel, Docker
-```
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, GraphQL
+- **Database:** PostgreSQL, MongoDB, Redis
+- **Cloud:** AWS, Docker, Vercel
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🏦 **DeFi Yield Protocol**
-Smart contract system for automated yield farming across multiple DEXs
+### **DeFi Liquidity Protocol**
+Automated yield farming protocol with multi-pool support
 - **Tech:** Solidity, Hardhat, React, Web3.js
-- **Features:** Liquidity mining, auto-compounding, governance token
-- [**Live Demo**](https://defi-yield.vercel.app) • [**Code**](https://github.com/ajay-web3/defi-yield-protocol)
+- [Repository](https://github.com/ajey35/defi-protocol)
 
-### 🎨 **Solana NFT Marketplace**
-Full-featured NFT marketplace built on Solana blockchain
-- **Tech:** Rust, Anchor, Metaplex, React, Phantom
-- **Features:** Minting, trading, royalties, collection management
-- [**Live Demo**](https://solana-nft-market.vercel.app) • [**Code**](https://github.com/ajay-web3/solana-nft-marketplace)
+### **Solana NFT Marketplace**
+Full-featured NFT marketplace with creator royalties
+- **Tech:** Rust, Anchor, Metaplex, React
+- [Repository](https://github.com/ajey35/solana-marketplace)
 
-### ⚡ **Cross-Chain Bridge**
-Asset transfer protocol between Ethereum and Solana
-- **Tech:** Solidity, Rust, Chainlink, React
-- **Features:** Token bridging, validator network, security audits
-- [**Code**](https://github.com/ajay-web3/cross-chain-bridge)
+### **Cross-Chain Bridge**
+Secure asset transfer between Ethereum and Solana
+- **Tech:** Solidity, Rust, Chainlink, TypeScript
+- [Repository](https://github.com/ajey35/cross-bridge)
 
-### 💬 **Real-Time Chat App**
+### **Amplify - Music Streaming Platform**
+Spotify-integrated social music platform
+- **Tech:** Next.js, PostgreSQL, Tailwind CSS, Spotify API
+- [Live Demo](https://amplify-music.vercel.app) | [Repository](https://github.com/ajey35/amplify)
+
+### **PingRoom - Real-Time Chat**
 Scalable messaging platform with WebSocket integration
 - **Tech:** React, Node.js, PostgreSQL, Socket.io
-- **Features:** Real-time messaging, file sharing, group chats
-- [**Live Demo**](https://realtime-chat.vercel.app) • [**Code**](https://github.com/ajay-web3/realtime-chat)
+- [Live Demo](https://pingroom-chat.vercel.app) | [Repository](https://github.com/ajey35/pingroom-chat)
+
+### **WebRTC Video Streaming Platform**
+Ultra-low latency P2P communication system
+- **Tech:** React, TypeScript, WebRTC, AWS EC2
+- [Live Demo](https://webrtc-streaming.vercel.app) | [Repository](https://github.com/ajey35/webrtc-streaming)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajey35&show_icons=true&theme=minimal&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-web3&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-web3&layout=compact&theme=dark&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajey35&layout=compact&theme=minimal&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## Currently
 
-- 📧 **Email:** [ajaywebdev@gmail.com](mailto:ajaywebdev@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ajay-kumar-k](https://linkedin.com/in/ajay-kumar-k)
-- 🐦 **Twitter:** [@ajay_web3dev](https://twitter.com/ajay_web3dev)
-- 💬 **Telegram:** [@ajay_blockchain](https://t.me/ajay_blockchain)
-
----
-
-## 🎯 Currently
-
-- 🔭 Building cross-chain DeFi protocols
-- 🌱 Learning advanced Rust and smart contract security
-- 👯 Open to collaborating on Web3 projects
+- 🔭 Building cross-chain DeFi protocols and NFT infrastructure
+- 🌱 Learning advanced smart contract security and Layer 2 solutions
+- 👯 Open to Web3 collaborations and hackathons
 - 💼 Seeking Web3 developer opportunities
 
 ---
 
-*"Bridging traditional web development with the decentralized future"*
+## Connect
 
-⭐ **Feel free to star repositories you find interesting!**
+- **Email:** [ajeyakumara07@gmail.com](mailto:ajeyakumara07@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ajeya-kumara-k-331bbb29b](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)
+- **GitHub:** [github.com/ajey35](https://github.com/ajey35)
+- **Phone:** [+91 9019841504](tel:+919019841504)
+
+---
+
+*Building the decentralized future, one smart contract at a time.*
 ```
 
-This clean README features:
+This simplified README features:
 
-✅ **Concise Structure**:
-- Clear sections with proper spacing
-- Easy-to-scan information hierarchy
-- Professional yet approachable tone
+✅ **Clean & Minimal Design**:
+- Reduced visual clutter with strategic whitespace
+- Minimal emoji usage for better professional appearance
+- Simple, scannable structure
 
-✅ **Technical Focus**:
-- Highlights both PERN stack and Web3 expertise
-- Shows progression from full-stack to blockchain
-- Organized tech stack with clear categories
+✅ **Clear Information Hierarchy**:
+- Concise sections with essential information
+- Easy-to-read tech stack organization
+- Straightforward project listings
 
-✅ **Project Showcase**:
-- Mix of Web3 and full-stack projects
-- Clear descriptions with tech stacks
-- Live demo and repository links
+✅ **Professional Presentation**:
+- Focus on technical expertise and achievements
+- Clean formatting throughout
+- Direct contact information and links
 
-✅ **Clean Design**:
-- Minimal use of emojis for visual breaks
-- Consistent formatting throughout
-- Easy to read on both desktop and mobile
+✅ **Optimal Readability**:
+- Simple markdown formatting
+- Consistent structure
+- Mobile-friendly layout
+```
+```
+
 
