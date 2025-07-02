@@ -1,100 +1,67 @@
 # Ajay Kumar K
 
-**Full-Stack Developer --> Web3 Engineer**
-
+**Full-Stack Developer | Web3 Engineer**  
 Building scalable web applications and decentralized solutions with expertise in PERN stack and blockchain technologies.
 
 ---
 
-## About Me
+## Projects by Category
 
-Full-stack developer specializing in **Web3 development** with strong foundation in the **PERN stack**. Currently focused on building decentralized applications and smart contracts on **Ethereum** and **Solana** ecosystems.
+### 🔗 Web3 Projects
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| **[LiquidStackingToken](https://github.com/ajey35/LiquidStackingToken)** | Token protocol for liquid stacking | Solidity, Web3 |
+| **[AutomatedMarketMaker](https://github.com/ajey35/AutomatedMarketMaker)** | Decentralized trading protocol | Solidity, DeFi |
+| **[superdev-assignment](https://github.com/ajey35/superdev-assignment)** | Solana smart contract implementation | Rust, Solana |
+| **[pikopark](https://github.com/ajey35/pikopark)** | Solana-based NFT project | Rust, Solana, Web3 |
+| **[Cli-Todo-app](https://github.com/ajey35/Cli-Todo-app)** | CLI Todo application on Solana | Rust, Solana CLI |
+| **[Jupitor](https://github.com/ajey35/Jupitor)** | Solana blockchain utilities | Solana, Web3.js |
+| **[EthiriumNode](https://github.com/ajey35/EthiriumNode)** | Ethereum node implementation | Ethereum, Geth |
+| **[Dvault](https://github.com/ajey35/Dvault)** | Decentralized vault system | Ethereum, Solidity |
 
-- 🎓 BE Computer Science, CMR Institute of Technology (CGPA: 9.25/10)
-- 📍 Bengaluru, Karnataka, India
-- 🚀 Transitioning from full-stack web development to Web3
-- 💡 Passionate about DeFi, NFTs, and blockchain infrastructure
+### 🖥️ Frontend Projects
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| **[yf-landingpage](https://github.com/ajey35/yf-landingpage)** | Crypto yield farming landing page | React, Tailwind CSS |
+| **[AI-assist](https://github.com/ajey35/AI-assist)** | AI assistant interface | React, AI APIs |
+| **[Screener](https://github.com/ajey35/Screener)** | Market data visualization dashboard | React, Chart.js |
+| **[SentientStruggle](https://github.com/ajey35/SentientStruggle)** | Interactive browser experience | Three.js, React |
+| **[Text-Pad](https://github.com/ajey35/Text-Pad)** | Browser-based text editor | JavaScript, Monaco |
 
----
-
-## Tech Stack
-
-### Web3 & Blockchain
-- **Languages:** Solidity, Rust
-- **Platforms:** Ethereum, Solana
-- **Frameworks:** Hardhat, Foundry, Anchor, Metaplex
-- **Libraries:** Web3.js, Ethers.js, Chainlink
-- **Wallets:** MetaMask, Phantom, WalletConnect
-
-### Full-Stack Development (PERN)
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, GraphQL
-- **Database:** PostgreSQL, MongoDB, Redis
-- **Cloud:** AWS, Docker, Vercel
-
----
-
-## Projects
-
-### **DeFi Liquidity Protocol**
-Automated yield farming protocol with multi-pool support
-- **Tech:** Solidity, Hardhat, React, Web3.js
-- [Repository](https://github.com/ajey35/defi-protocol)
-
-### **Solana NFT Marketplace**
-Full-featured NFT marketplace with creator royalties
-- **Tech:** Rust, Anchor, Metaplex, React
-- [Repository](https://github.com/ajey35/solana-marketplace)
-
-### **Cross-Chain Bridge**
-Secure asset transfer between Ethereum and Solana
-- **Tech:** Solidity, Rust, Chainlink, TypeScript
-- [Repository](https://github.com/ajey35/cross-bridge)
-
-### **Amplify - Music Streaming Platform**
-Spotify-integrated social music platform
-- **Tech:** Next.js, PostgreSQL, Tailwind CSS, Spotify API
-- [Live Demo](https://amplify-music.vercel.app) | [Repository](https://github.com/ajey35/amplify)
-
-### **PingRoom - Real-Time Chat**
-Scalable messaging platform with WebSocket integration
-- **Tech:** React, Node.js, PostgreSQL, Socket.io
-- [Live Demo](https://pingroom-chat.vercel.app) | [Repository](https://github.com/ajey35/pingroom-chat)
-
-### **WebRTC Video Streaming Platform**
-Ultra-low latency P2P communication system
-- **Tech:** React, TypeScript, WebRTC, AWS EC2
-- [Live Demo](https://webrtc-streaming.vercel.app) | [Repository](https://github.com/ajey35/webrtc-streaming)
+### ⚡ Full Stack Projects
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| **[StreemMeet](https://github.com/ajey35/StreemMeet)** | Real-time video conferencing | WebRTC, WebSockets, MERN |
+| **[Amplify](https://github.com/ajey35/Amplify)** | Music streaming platform | PERN Stack, AWS |
 
 ---
 
-## GitHub Stats
+## Tech Stack Overview
+**Web3 & Blockchain**  
+Solidity, Rust, Ethereum, Solana, Hardhat, Anchor, Web3.js  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajey35&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+**Frontend**  
+React, TypeScript, Tailwind CSS, Three.js, WebRTC  
 
+**Backend**  
+Node.js, Express, PostgreSQL, WebSockets, REST APIs  
+
+---
+
+## GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajey35&show_icons=true&theme=minimal&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajey35&layout=compact&theme=minimal&hide_border=true)
 
 ---
 
-## Currently
-
-- 🔭 Building cross-chain DeFi protocols and NFT infrastructure
-- 🌱 Learning advanced smart contract security and Layer 2 solutions
-- 👯 Open to Web3 collaborations and hackathons
-- 💼 Seeking Web3 developer opportunities
+## Currently Building
+- Cross-chain DeFi protocols
+- Advanced smart contract systems
+- Real-time communication platforms
 
 ---
 
-## Connect
-
-- **Email:** [ajeyakumara07@gmail.com](mailto:ajeyakumara07@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ajeya-kumara-k-331bbb29b](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)
-- **GitHub:** [github.com/ajey35](https://github.com/ajey35)
-- **Phone:** [+91 9019841504](tel:+919019841504)
-
----
-
-*Building the decentralized future, one smart contract at a time.*
-
-
-
+## Connect  
+📧 [ajeyakumara07@gmail.com](mailto:ajeyakumara07@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ajeya-kumara-k-331bbb29b/)  
+📱 +91 9019841504
