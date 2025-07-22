@@ -11,6 +11,7 @@ Building scalable web applications and decentralized solutions with expertise in
 | Project | Description | Technologies |
 |---------|-------------|-------------|
 | **[Rust-2D-Game](https://github.com/ajey35/Rust2DGame)** | 2D Platformer Game built with Rust and the Piston game engine |  Rust and Piston
+| **[AI-driven Static Analyzer](https://github.com/ajey35/capture-flag-solana)**|AI analyzer detects vulnerabilities in Rust and Solidity code based on patterns and AI code analysis| Rust,Solana
 | **[LiquidStackingToken](https://github.com/ajey35/LiquidStackingToken)** | Token protocol for liquid stacking | Solidity, Web3 |
 | **[AutomatedMarketMaker](https://github.com/ajey35/AutomatedMarketMaker)** | Decentralized trading protocol | Solidity, DeFi |
 | **[superdev-assignment](https://github.com/ajey35/superdev-assignment)** | Solana smart contract implementation | Rust, Solana |
